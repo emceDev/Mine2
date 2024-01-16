@@ -2,8 +2,7 @@ const pass = "minecraft123";
 const version = "1.20.1";
 
 const token =
-  "ODMzNjcxNjE0MzY0NjQ3NDM0.GWfYbs.FRso2IYOneIAS7uH3Jssv3OYAnz3sXy_v1OJb4";
-const channelId = "833669360069509160";
+  "ODMzNjcxNjE0MzY0NjQ3NDM0.GaqLpQ.VAfnRlWDQObrJXL8-ewD7bJMh_dyoPSngaIrKw";
 const port = 5555;
 const username = "Berserker1231";
 const host = "127.0.0.1";
